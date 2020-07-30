@@ -34,8 +34,6 @@
 ![image](https://github.com/JimStevens-YZY/Project/blob/master/photo/pic6.png)
 #### e.支付界面
 ![image](https://github.com/JimStevens-YZY/Project/blob/master/photo/pic7.png)
-#### f.后台订单管理界面
-![image](https://github.com/JimStevens-YZY/Project/blob/master/photo/pic8.png)
 ### 功能模块图
 ![image](https://github.com/JimStevens-YZY/Project/blob/master/photo/pic9.png)
 ### 程序流程图
